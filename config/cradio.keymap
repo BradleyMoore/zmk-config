@@ -118,8 +118,8 @@
         // Used to type regional accents.
        		accent_layer {
 		bindings = <
-		&none &none &none &kp &none &none                         &none &none &none &none &none 
-		&none &none &none &none &none &none &none &none &none &none
+		&none &none &none &none &none                         &none &none &none &none &none 
+		&none &none &none &none &none                         &none &none &none &none &none
 		&none &none &none &none &none                         &none &none &none &none &none
           				     &none &none                         &none &none 
 		>;
