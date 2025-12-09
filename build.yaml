@@ -1,3 +1,5 @@
-include:
-  - board: nice_nano_v2
+- name: Build Sweep Matrix
+  uses: zmkfirmware/zmk-build@vX  # whatever version is in the template
+  with:
+    board: nice_nano_v2
     shield: sweep_matrix
