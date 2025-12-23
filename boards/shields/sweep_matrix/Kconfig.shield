@@ -1,6 +1,0 @@
-# Copyright (c) 2025
-# SPDX-License-Identifier: MIT
-
-# No whitespace after the comma or in the keyboard name!
-config SHIELD_SWEEP_MATRIX
-    def_bool $(shields_list_contains,sweep_matrix)
